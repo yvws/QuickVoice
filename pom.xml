@@ -60,5 +60,11 @@
       <version>125.6422.04</version>
       <scope>runtime</scope>
     </dependency>
+    <dependency>
+      <groupId>com.github.yvws</groupId>
+      <artifactId>QuickBeauty</artifactId>
+      <version>1.0.0</version>
+      <scope>runtime</scope>
+    </dependency>
   </dependencies>
 </project>
