@@ -9,7 +9,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.quick.voice</groupId>
   <artifactId>QuickEngine</artifactId>
-  <version>1.0.4</version>
+  <version>1.0.5</version>
   <packaging>aar</packaging>
   <build>
     <plugins>
@@ -73,9 +73,9 @@
       <scope>runtime</scope>
     </dependency>
     <dependency>
-      <groupId>io.github.webrtc-sdk</groupId>
-      <artifactId>android</artifactId>
-      <version>125.6422.06.1</version>
+      <groupId>com.github.yvws</groupId>
+      <artifactId>RTCAndroid</artifactId>
+      <version>1.0.1</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>
