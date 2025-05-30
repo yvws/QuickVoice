@@ -16,6 +16,6 @@ dependencies {
     保持最新版
     implementation 'com.github.yvws:QuickVoice:+'
     或者指定具体版本
-    implementation 'com.github.yvws:QuickVoice:1.1.1'
+    implementation 'com.github.yvws:QuickVoice:1.1.2'
 }
 ```
