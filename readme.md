@@ -17,6 +17,6 @@ dependencies {
     implementation 'com.github.yvws:QuickVoice:+'
     
     // Or specify a specific version
-    implementation 'com.github.yvws:QuickVoice:1.1.7'
+    implementation 'com.github.yvws:QuickVoice:1.1.8'
 }
 ```
