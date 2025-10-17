@@ -8,8 +8,8 @@
   <!-- do_not_remove: published-with-gradle-metadata -->
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.quick.voice</groupId>
-  <artifactId>QuickEngine</artifactId>
-  <version>1.4.1</version>
+  <artifactId>QuickVoice</artifactId>
+  <version>1.4.2</version>
   <packaging>aar</packaging>
   <build>
     <plugins>
@@ -43,34 +43,16 @@
       <scope>runtime</scope>
     </dependency>
     <dependency>
-      <groupId>com.google.code.gson</groupId>
-      <artifactId>gson</artifactId>
-      <version>2.10.1</version>
-      <scope>runtime</scope>
-    </dependency>
-    <dependency>
       <groupId>com.google.protobuf</groupId>
       <artifactId>protobuf-javalite</artifactId>
       <version>4.28.2</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>
-      <groupId>com.squareup.okhttp3</groupId>
-      <artifactId>okhttp</artifactId>
-      <version>4.12.0</version>
-      <scope>runtime</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.squareup.okhttp3</groupId>
-      <artifactId>logging-interceptor</artifactId>
-      <version>4.12.0</version>
-      <scope>runtime</scope>
-    </dependency>
-    <dependency>
-      <groupId>org.java-websocket</groupId>
-      <artifactId>Java-WebSocket</artifactId>
-      <version>1.5.4</version>
-      <scope>runtime</scope>
+      <groupId>com.github.yvws</groupId>
+      <artifactId>QuickBase</artifactId>
+      <version>1.0.1</version>
+      <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>com.github.yvws</groupId>
@@ -79,21 +61,9 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.github.yvws</groupId>
-      <artifactId>QuickBeauty</artifactId>
-      <version>1.0.2</version>
-      <scope>runtime</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.google.mlkit</groupId>
-      <artifactId>segmentation-selfie</artifactId>
-      <version>16.0.0-beta6</version>
-      <scope>runtime</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.github.jenly1314</groupId>
+      <groupId>com.github.runningboys</groupId>
       <artifactId>libyuv</artifactId>
-      <version>1.0.0</version>
+      <version>1.0.2</version>
       <scope>runtime</scope>
     </dependency>
   </dependencies>
