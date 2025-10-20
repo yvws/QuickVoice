@@ -9,7 +9,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.quick.voice</groupId>
   <artifactId>QuickVoice</artifactId>
-  <version>1.4.2</version>
+  <version>1.4.3</version>
   <packaging>aar</packaging>
   <build>
     <plugins>
