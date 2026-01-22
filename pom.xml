@@ -9,7 +9,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.quick.voice</groupId>
   <artifactId>QuickVoice</artifactId>
-  <version>1.5.8</version>
+  <version>1.5.9</version>
   <packaging>aar</packaging>
   <build>
     <plugins>
@@ -57,7 +57,7 @@
     <dependency>
       <groupId>com.github.yvws</groupId>
       <artifactId>RTCAndroid</artifactId>
-      <version>1.0.5</version>
+      <version>1.0.8</version>
       <scope>runtime</scope>
     </dependency>
   </dependencies>
